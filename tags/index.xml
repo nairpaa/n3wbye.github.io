@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on n3wblog</title>
+    <link>https://n3wbye.github.io/tags/</link>
+    <description>Recent content in Tags on n3wblog</description>
+    <image>
+      <url>https://n3wbye.github.io/papermod-cover.png</url>
+      <link>https://n3wbye.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Jul 2021 10:19:17 +0700</lastBuildDate><atom:link href="https://n3wbye.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deserilization</title>
+      <link>https://n3wbye.github.io/tags/deserilization/</link>
+      <pubDate>Sat, 03 Jul 2021 10:19:17 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/deserilization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://n3wbye.github.io/tags/linux/</link>
+      <pubDate>Sat, 03 Jul 2021 10:19:17 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YAML</title>
+      <link>https://n3wbye.github.io/tags/yaml/</link>
+      <pubDate>Sat, 03 Jul 2021 10:19:17 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUID</title>
+      <link>https://n3wbye.github.io/tags/suid/</link>
+      <pubDate>Sun, 27 Jun 2021 09:58:11 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/suid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://n3wbye.github.io/tags/web/</link>
+      <pubDate>Sun, 27 Jun 2021 09:58:11 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PortSwigger</title>
+      <link>https://n3wbye.github.io/tags/portswigger/</link>
+      <pubDate>Sun, 13 Jun 2021 11:03:18 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/portswigger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XML</title>
+      <link>https://n3wbye.github.io/tags/xml/</link>
+      <pubDate>Sun, 13 Jun 2021 11:03:18 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/xml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXE</title>
+      <link>https://n3wbye.github.io/tags/xxe/</link>
+      <pubDate>Sun, 13 Jun 2021 11:03:18 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/xxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://n3wbye.github.io/tags/android/</link>
+      <pubDate>Sat, 12 Jun 2021 07:34:18 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse APK</title>
+      <link>https://n3wbye.github.io/tags/reverse-apk/</link>
+      <pubDate>Sat, 12 Jun 2021 07:34:18 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/reverse-apk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>https://n3wbye.github.io/tags/bash/</link>
+      <pubDate>Fri, 28 May 2021 21:17:38 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking</title>
+      <link>https://n3wbye.github.io/tags/cracking/</link>
+      <pubDate>Sun, 23 May 2021 13:29:00 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/cracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frida</title>
+      <link>https://n3wbye.github.io/tags/frida/</link>
+      <pubDate>Wed, 19 May 2021 22:14:12 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/tags/frida/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

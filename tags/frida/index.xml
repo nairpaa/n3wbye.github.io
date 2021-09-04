@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frida on n3wblog</title>
+    <link>https://n3wbye.github.io/tags/frida/</link>
+    <description>Recent content in Frida on n3wblog</description>
+    <image>
+      <url>https://n3wbye.github.io/papermod-cover.png</url>
+      <link>https://n3wbye.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 May 2021 22:14:12 +0700</lastBuildDate><atom:link href="https://n3wbye.github.io/tags/frida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Frida</title>
+      <link>https://n3wbye.github.io/posts/frida-android/</link>
+      <pubDate>Wed, 19 May 2021 22:14:12 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/posts/frida-android/</guid>
+      <description>Dasar frida untuk pentest Android.</description>
+    </item>
+    
+  </channel>
+</rss>

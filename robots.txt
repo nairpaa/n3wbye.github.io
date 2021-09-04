@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://n3wbye.github.io/sitemap.xml

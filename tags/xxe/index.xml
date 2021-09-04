@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XXE on n3wblog</title>
+    <link>https://n3wbye.github.io/tags/xxe/</link>
+    <description>Recent content in XXE on n3wblog</description>
+    <image>
+      <url>https://n3wbye.github.io/papermod-cover.png</url>
+      <link>https://n3wbye.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Jun 2021 11:03:18 +0700</lastBuildDate><atom:link href="https://n3wbye.github.io/tags/xxe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XML Entities</title>
+      <link>https://n3wbye.github.io/posts/xml-entities/</link>
+      <pubDate>Sun, 13 Jun 2021 11:03:18 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/posts/xml-entities/</guid>
+      <description>Mengenal entitas XML.</description>
+    </item>
+    
+    <item>
+      <title>XML external entity (XXE) injection</title>
+      <link>https://n3wbye.github.io/posts/xxe-injection/</link>
+      <pubDate>Sat, 12 Jun 2021 20:58:49 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/posts/xxe-injection/</guid>
+      <description>Dasar XML external entity (XXE) injection.</description>
+    </item>
+    
+  </channel>
+</rss>

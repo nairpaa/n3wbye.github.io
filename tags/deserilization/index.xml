@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deserilization on n3wblog</title>
+    <link>https://n3wbye.github.io/tags/deserilization/</link>
+    <description>Recent content in Deserilization on n3wblog</description>
+    <image>
+      <url>https://n3wbye.github.io/papermod-cover.png</url>
+      <link>https://n3wbye.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Jul 2021 10:19:17 +0700</lastBuildDate><atom:link href="https://n3wbye.github.io/tags/deserilization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[HackTheBox] Ophiuchi</title>
+      <link>https://n3wbye.github.io/posts/ophiuchi-htb/</link>
+      <pubDate>Sat, 03 Jul 2021 10:19:17 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/posts/ophiuchi-htb/</guid>
+      <description>HTB - Ophiuchi Walkthrough.</description>
+    </item>
+    
+  </channel>
+</rss>
