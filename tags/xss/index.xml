@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XSS on n3wblog</title>
+    <link>https://n3wbye.github.io/tags/xss/</link>
+    <description>Recent content in XSS on n3wblog</description>
+    <image>
+      <url>https://n3wbye.github.io/papermod-cover.png</url>
+      <link>https://n3wbye.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Sep 2021 19:50:27 +0700</lastBuildDate><atom:link href="https://n3wbye.github.io/tags/xss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[HackTheBox] Schooled</title>
+      <link>https://n3wbye.github.io/posts/schooled-htb/</link>
+      <pubDate>Sun, 12 Sep 2021 19:50:27 +0700</pubDate>
+      
+      <guid>https://n3wbye.github.io/posts/schooled-htb/</guid>
+      <description>HTB - Schooled Walkthrough.</description>
+    </item>
+    
+  </channel>
+</rss>

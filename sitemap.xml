@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://n3wbye.github.io/posts/schooled-htb/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/tags/linux/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/tags/pkg/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/posts/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/tags/sudo-abuse/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/tags/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
+    <loc>https://n3wbye.github.io/tags/xss/</loc>
+    <lastmod>2021-09-12T19:50:27+07:00</lastmod>
+  </url><url>
     <loc>https://n3wbye.github.io/posts/ophiuchi-htb/</loc>
     <lastmod>2021-07-03T10:19:17+07:00</lastmod>
   </url><url>
@@ -12,18 +36,6 @@
     <lastmod>2021-07-03T10:19:17+07:00</lastmod>
   </url><url>
     <loc>https://n3wbye.github.io/categories/hackthebox/</loc>
-    <lastmod>2021-07-03T10:19:17+07:00</lastmod>
-  </url><url>
-    <loc>https://n3wbye.github.io/tags/linux/</loc>
-    <lastmod>2021-07-03T10:19:17+07:00</lastmod>
-  </url><url>
-    <loc>https://n3wbye.github.io/</loc>
-    <lastmod>2021-07-03T10:19:17+07:00</lastmod>
-  </url><url>
-    <loc>https://n3wbye.github.io/posts/</loc>
-    <lastmod>2021-07-03T10:19:17+07:00</lastmod>
-  </url><url>
-    <loc>https://n3wbye.github.io/tags/</loc>
     <lastmod>2021-07-03T10:19:17+07:00</lastmod>
   </url><url>
     <loc>https://n3wbye.github.io/tags/yaml/</loc>
